@@ -1,4 +1,7 @@
 ## Here, I am putting material related to Uncertainty Quantification in Graph Neural Networks (UQ in GNNs).
+# Neural Networks 
+1. Mena, José, Oriol Pujol, and Jordi Vitria. "A survey on uncertainty estimation in deep learning classification systems from a Bayesian perspective." ACM Computing Surveys (CSUR) 54.9 (2021): 1-35.
+# Graph Neural Networks    
 1. Uncertainty Aware Semi-Supervised Learning on Graph Data, NeurIPS 2020.
 2. UAG: Uncertainty-aware Attention Graph Neural Network for Defending Adversarial Attacks, AAAI-21.
 3. Uncertainty Quantification over Graph with Conformalized Graph Neural Networks, NeurIPS 2023.
